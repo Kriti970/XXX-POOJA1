@@ -25,10 +25,39 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
     if (body === i.toUpperCase() | body === i | str === body) {
 const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (data.PREFIX == null) {
-        return out(`This Is My Prefix ⇉ [ ${prefix} ]\n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑𝐎𝐊𝐄𝐍 𝐀𝐀𝐃𝐈☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐀𝐃𝐈 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/bijayani.sahoo.98?mibextid=ZbWKwL\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 https://www.instagram.com/aadi_singh__143?igsh=MXVneXZ6bzR4bHhvcg==`)
+        return out(`This Is My Prefix ⇉ [ .{ 爾 公 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
+┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
+🌸✦✧✧✧✧✰🍒✬✿╭┳✪✪╤───────────➛➣ ★�🆁🅸🅽🅲🅴★🆂🅸🅻🅴🅽🆃)✪��🆈★  ✬✿╭┳✪✪╤───────────➛➣🤩🌿✰✧✧✧✧✦🌸
+┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛    
+🕊️🌸
+...
+✮┼💞┼✮
+☸🕊️━━•🌸•━━🕊️☸
+✮☸✮
+✮┼🍫┼✮
+☸🎀━━•🧸•━━🎀☸
+✮┼🦢┼✮
+✮☸✮
+☸🌈━━•🤍•━━🌈☸
+✮☸✮
+✮┼❄️┼✮🥀💐✿`)
       }
-      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ ${prefix} ]  \n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑𝐎𝐊𝐄𝐍 𝐀𝐀𝐃𝐈☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐀𝐃𝐈 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/bijayani.sahoo.98?mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram  Username 👉 https://www.instagram.com/aadi_singh__143?igsh=MXVneXZ6bzR4bHhvcg==' + data.PREFIX)
+      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ .{乛爾 公 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
+┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
+🌸✦✧✧✧✧✰🍒✬✿╭┳✪✪╤───────────➛➣ ★�🆁🅸🅽🅲🅴★🆂🅸🅻🅴🅽🆃)✪��🆈★  ✬✿╭┳✪✪╤───────────➛➣🤩🌿✰✧✧✧✧✦🌸
+┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛    
+🕊️🌸
+...
+✮┼💞┼✮
+☸🕊️━━•🌸•━━🕊️☸
+✮☸✮
+✮┼🍫┼✮
+☸🎀━━•🧸•━━🎀☸
+✮┼🦢┼✮
+✮☸✮
+☸🌈━━•🤍•━━🌈☸
+✮☸✮
+✮┼❄️┼✮🥀💐✿' + data.PREFIX)
     }
 
   });
